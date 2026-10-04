@@ -16,10 +16,4 @@
 
 ## 发布到 GitHub Pages
 
-1. 新建公开仓库 `snake-game`，将 `index.html` 和 `.nojekyll` 放到仓库根目录。
-2. 打开仓库的 **Settings → Pages**。
-3. 在 **Build and deployment** 下选择 **Deploy from a branch**。
-4. 选择 **main** 分支和 **/(root)**，点击 **Save**。
-5. 等待部署完成，访问 Pages 设置页面显示的网址。
-
 这个版本使用相对路径和内嵌资源，支持 GitHub Pages 的项目子目录，无须构建。不同浏览器、设备及网址的最高分各自保存。
